@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5t4XRG/P3EiOcWLabbq8cdwgQyNkrso8LrJYAp+QMu/NelgX1hlz2+5NddnUBQwFDR1b1NjR0tjJLh2s93Bx+Q==",
+  "dgSpecHash": "RKEzT6dP/4/UQIQE1Aaz6Xl5EdkaAQwMsC5euNIP7Si3n671zRQC1PeyDEJ289hqgAY826kZqReOAJVwAgp5YQ==",
   "success": true,
   "projectFilePath": "N:\\TUS\\SoftwareDesign\\Assignment - Weather Forecast\\Assignment - Weather Forecast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yashs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

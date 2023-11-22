@@ -1,8 +1,7 @@
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.exe
-N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.deps.json
-N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.runtimeconfig.json
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.dll
-N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.pdb
+N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.csproj.AssemblyReference.cache
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment___Weather_Forecast.Form1.resources
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment___Weather_Forecast.Properties.Resources.resources
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.csproj.GenerateResource.cache
@@ -10,8 +9,12 @@ N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Ass
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.AssemblyInfoInputs.cache
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.AssemblyInfo.cs
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.csproj.CoreCompileInputs.cache
+N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.csproj.CopyComplete
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.dll
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\refint\Assignment - Weather Forecast.dll
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.pdb
+N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.deps.json
+N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.runtimeconfig.json
+N:\TUS\SoftwareDesign\Assignment - Weather Forecast\bin\Debug\net6.0-windows\Assignment - Weather Forecast.pdb
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\Assignment - Weather Forecast.genruntimeconfig.cache
 N:\TUS\SoftwareDesign\Assignment - Weather Forecast\obj\Debug\net6.0-windows\ref\Assignment - Weather Forecast.dll
